@@ -2,13 +2,13 @@
 
 > **Read-only archive of released versions of flagrow/serve.** Not for installation: use [Packagist](https://packagist.org/packages/flagrow/serve) or the [upstream repository](https://github.com/flagrow/serve).
 
-**0** versions archived · Latest: [`0.1.0`](https://github.com/flarchive/flagrow-serve/tree/archive/v0.1.0) · License: `mit` · Flarum: `^0.1.0-beta.6`
+**1** versions archived · Latest: [`0.1.0`](https://github.com/flarchive/flagrow-serve/tree/archive/v0.1.0) · License: `mit` · Flarum: `^0.1.0-beta.6`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.0` | 2017-07-24 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/flagrow-serve/tree/archive/v0.1.0) |
 
 Catalog entry: [packages/flagrow-serve.json](https://github.com/flarchive/archive-index/blob/main/packages/flagrow-serve.json)
 
